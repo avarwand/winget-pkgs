@@ -5,12 +5,12 @@ PackageIdentifier: Avarwand.AGm
 PackageVersion: "1.4"
 PackageLocale: en-US
 Publisher: Avarwand Software
-PublisherUrl: https://github.com/avarwand/AGm/releases/tag/agm
+PublisherUrl: https://github.com/avarwand/AGm/releases
 PublisherSupportUrl: https://github.com/avarwand/AGm/issues
 PrivacyUrl: https://github.com/avarwand/
 Author: Avarwand Software
 PackageName: AGm
-PackageUrl: https://github.com/avarwand/AGm/releases/tag/agm
+PackageUrl: https://github.com/avarwand/AGm/releases
 License: EULA
 LicenseUrl: https://github.com/avarwand/AGm?tab=License-1-ov-file
 Copyright: Avarwand
@@ -26,6 +26,6 @@ Tags:
 - avarwand
 - avarwand software
 ReleaseNotes: initial public release
-ReleaseNotesUrl: https://github.com/avarwand/AGm/releases/tag/agm
+ReleaseNotesUrl: https://github.com/avarwand/AGm/releases
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
