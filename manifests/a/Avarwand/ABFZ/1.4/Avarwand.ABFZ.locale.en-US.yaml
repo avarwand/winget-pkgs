@@ -6,11 +6,11 @@ PackageVersion: "1.4"
 PackageLocale: en-US
 Publisher: Avarwand Software
 PublisherUrl: https://github.com/avarwand/
-PublisherSupportUrl: https://github.com/avarwand/A-Batch-File-Zipper/releases/tag/abfz
+PublisherSupportUrl: https://github.com/avarwand/A-Batch-File-Zipper/releases
 PrivacyUrl: https://github.com/avarwand/
 Author: Avarwand Software
 PackageName: ABFZ
-PackageUrl: https://github.com/avarwand/A-Batch-File-Zipper/releases/tag/abfz
+PackageUrl: https://github.com/avarwand/A-Batch-File-Zipper/releases
 License: EULA
 LicenseUrl: https://github.com/avarwand/A-Batch-File-Zipper/blob/master/LICENSE.md
 Copyright: Avarwand
@@ -26,6 +26,6 @@ Tags:
 - zip
 - freeware
 ReleaseNotes: initial public release
-ReleaseNotesUrl: https://github.com/avarwand/A-Batch-File-Zipper/releases/tag/abfz
+ReleaseNotesUrl: https://github.com/avarwand/A-Batch-File-Zipper/releases
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
