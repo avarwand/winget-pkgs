@@ -10,7 +10,7 @@ PublisherSupportUrl: https://github.com/avarwand/APC/issues
 PrivacyUrl: https://github.com/avarwand/
 Author: Avarwand Software
 PackageName: APC
-PackageUrl: https://github.com/avarwand/APC/releases/tag/apc
+PackageUrl: https://github.com/avarwand/APC/releases
 License: EULA
 LicenseUrl: https://github.com/avarwand/APC/blob/master/LICENSE.md
 Copyright: Avarwand
@@ -24,6 +24,6 @@ Tags:
 - avarwand
 - picture converter
 ReleaseNotes: initial public release of APC
-ReleaseNotesUrl: https://github.com/avarwand/APC/releases/tag/apc
+ReleaseNotesUrl: https://github.com/avarwand/APC/releases
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
