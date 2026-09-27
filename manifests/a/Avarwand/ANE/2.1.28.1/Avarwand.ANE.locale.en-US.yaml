@@ -20,6 +20,8 @@ Tags:
 - Avarwand
 - Avarwand Name Editor
 - Name Editor
+ReleaseNotes: Rebuilt as a signed MSI installer (WiX); previous versions used an EXE setup
+ReleaseNotesUrl: https://github.com/avarwand/ANE/releases/tag/wgane
 Documentations:
 - DocumentLabel: Wiki
   DocumentUrl: https://github.com/avarwand/ANE/wiki
