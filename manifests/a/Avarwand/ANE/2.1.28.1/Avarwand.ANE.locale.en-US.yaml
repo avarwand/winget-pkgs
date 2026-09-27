@@ -9,12 +9,12 @@ PublisherUrl: https://github.com/avarwand/
 PublisherSupportUrl: https://github.com/avarwand/
 Author: Avarwand Software
 PackageName: ANE
-PackageUrl: https://github.com/avarwand/ANE/releases/tag/ane
+PackageUrl: https://github.com/avarwand/ANE/releases
 License: EULA
 LicenseUrl: https://github.com/avarwand/ANE/blob/HEAD/LICENSE.md
 Copyright: ©Avarwand
 ShortDescription: ANE Setup
-Description: https://github.com/avarwand/ANE/releases/tag/ane
+Description: ANE is a Windows tool for editing and renaming file names and searching for and creating (dummy) files and folders with customized names and with great precision.
 Tags:
 - ANE
 - Avarwand
