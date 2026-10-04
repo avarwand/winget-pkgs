@@ -5,7 +5,7 @@ PackageIdentifier: Avarwand.AGm
 PackageVersion: "1.4"
 PackageLocale: en-US
 Publisher: Avarwand Software
-PublisherUrl: https://github.com/avarwand/AGm/releases
+PublisherUrl: https://github.com/avarwand
 PublisherSupportUrl: https://github.com/avarwand/AGm/issues
 PrivacyUrl: https://github.com/avarwand/
 Author: Avarwand Software
@@ -15,7 +15,7 @@ License: EULA
 LicenseUrl: https://github.com/avarwand/AGm?tab=License-1-ov-file
 Copyright: Avarwand
 CopyrightUrl: https://github.com/avarwand/AGm?tab=License-1-ov-file
-ShortDescription: AGm Setup
+ShortDescription: Graphical manager for multiple Git repositories.
 Description: AGm is a professional graphical Git repository manager, designed to manage multiple local Git repositories simultaneously (includes automating batch logging, staging, committing and pushing), with batch operations and a live status monitoring, without ever touching the command line, although there is an interactive CLI.
 Moniker: agm
 Tags:
