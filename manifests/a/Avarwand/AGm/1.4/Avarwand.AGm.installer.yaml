@@ -4,6 +4,9 @@
 PackageIdentifier: Avarwand.AGm
 PackageVersion: "1.4"
 InstallerType: inno
+Dependencies:
+  PackageDependencies:
+  - PackageIdentifier: Git.Git
 Installers:
 - Architecture: x86
   InstallerUrl: https://github.com/avarwand/AGm/releases/download/wgagm/AGm-1.4-Setup.exe
